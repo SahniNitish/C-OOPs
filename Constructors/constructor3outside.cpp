@@ -31,3 +31,14 @@ class Car{
         cout << myObj.brand <<"" <<myObj.model <<""<<myObj.year;
         return 0 ; 
     }
+
+
+    /*
+    constructor run by themselves when you create an object . they 
+    set things up so everything isready right away 
+
+    think of it like : 
+    when you order a pizza (object ), the constructor is the chef who adds the
+    sauce , cheese , and toppings before it get toyou --you dont have to do it your slef ..
+    
+    */
