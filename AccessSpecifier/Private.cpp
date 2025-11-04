@@ -19,7 +19,7 @@ class MyClass{
 int main(){
     MyClass myObj;
     myObj.x = 25; //Allowed (public)
-    myObj.y = 27; //Not Allowed (private)
+    //myObj.y = 27; //Not Allowed (private)
 
     return 0 ; 
 }
